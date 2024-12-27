@@ -18,21 +18,19 @@ Un proyecto que permite a los usuarios explorar detalles sobre libros y una sele
 2. Inicia un servidor local y accede al proyecto:
 http://localhostXXX(con tu local)/
 
-2️⃣ Filtro de Ciudades 🌍
+### 2️⃣ Filtro de Ciudades 🌍 
 Un proyecto que permite gestionar una lista de ciudades con funcionalidades completas de CRUD (crear, leer, actualizar y eliminar).
 
-- Características:
+#### Características:
 **Crear Ciudades**: Añade nuevas ciudades con nombre, país, y población.
 **Editar Ciudades**: Modifica los datos existentes de cualquier ciudad.
 **Eliminar Ciudades**: Borra ciudades específicas de la base de datos.
 **Filtro Dinámico**: Búsqueda en tiempo real a medida que el usuario escribe.
 
- 
 #### Tecnologías Utilizadas:
 - **PHP** para manejar la lógica del servidor y las operaciones CRUD.
 - **CSS3** para el diseño y la presentación.
 - **MySQL** para almacenar y gestionar los datos de las ciudades.
-
 
 #### Cómo Probarlo:
 1. Clona este repositorio:
