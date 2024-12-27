@@ -16,16 +16,16 @@ Un proyecto que permite a los usuarios explorar detalles sobre libros y una sele
 #### Cómo Probarlo:
 1. Clona este repositorio
 2. Inicia un servidor local y accede al proyecto:
-http://localhostXXX(con tu local)/
+http://localhostXXX (con tu local)/libros_loto
 
 ### 2️⃣ Filtro de Ciudades 🌍 
 Un proyecto que permite gestionar una lista de ciudades con funcionalidades completas de CRUD (crear, leer, actualizar y eliminar).
 
 #### Características:
-**Crear Ciudades**: Añade nuevas ciudades con nombre, país, y población.
-**Editar Ciudades**: Modifica los datos existentes de cualquier ciudad.
-**Eliminar Ciudades**: Borra ciudades específicas de la base de datos.
-**Filtro Dinámico**: Búsqueda en tiempo real a medida que el usuario escribe.
+- **Crear Ciudades**: Añade nuevas ciudades con nombre, país, y población.
+- **Editar Ciudades**: Modifica los datos existentes de cualquier ciudad.
+- **Eliminar Ciudades**: Borra ciudades específicas de la base de datos.
+- **Filtro Dinámico**: Búsqueda en tiempo real a medida que el usuario escribe.
 
 #### Tecnologías Utilizadas:
 - **PHP** para manejar la lógica del servidor y las operaciones CRUD.
@@ -34,8 +34,11 @@ Un proyecto que permite gestionar una lista de ciudades con funcionalidades comp
 
 #### Cómo Probarlo:
 1. Clona este repositorio:
-2. Configura la base de datos importando el archivo SQL que se encuentra en la carpeta /filtro-ciudades/.
-3. Inicia un servidor local y navega al proyecto:
+2. Para acceder a la base de datos WORLD, puedes descargar en tu local el zip que he incluido en el proyecto o descargarlo de la pagina https://dev.mysql.com/
+3. Inicia un servidor local y accede al proyecto
+http://localhostXXX (con tu local)/ciudades
+5. Configura la base de datos importando el archivo SQL que se encuentra en la carpeta /filtro-ciudades/.
+6. Inicia un servidor local y navega al proyecto:
 http://localhostXXXX(con tu local)
 
 
